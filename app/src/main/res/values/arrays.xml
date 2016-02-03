@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_sort_arr">
+        <item>@string/pref_sort_ch1_view</item>
+        <item>@string/pref_sort_ch2_view</item>
+        <item>@string/pref_sort_ch3_view</item>
+    </string-array>
+
+    <string-array name="pref_sort_arrval">
+        <item>@string/pref_sort_ch1</item>
+        <item>@string/pref_sort_ch2</item>
+        <item>@string/pref_sort_ch3</item>
+    </string-array>
+</resources>
